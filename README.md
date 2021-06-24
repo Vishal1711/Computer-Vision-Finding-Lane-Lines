@@ -1,2 +1,2 @@
 # Computer-Vision-Finding-Lane-Lines
-Identify lane line in a video.
+Use Computer Vision techniques via OpenCV to identify lane lines for a self-driving car.
